@@ -1,0 +1,48 @@
+#userRegistrationForm {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* background-image: url('https://images.pexels.com/photos/1435895/pexels-photo-1435895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover; 
+    color: white;  */
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #userSubmitButton {
+    background-color: #4e4caf;
+    color: /*#96bb9c9d*/white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold; /* Make the text bold */
+    display: block; /* Ensure button is a block-level element */
+    margin: auto; /* Center the button */
+    margin-top: 10px;
+  }
+  
+  #userSubmitButton:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add additional styling as needed */
+  
